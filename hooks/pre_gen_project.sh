@@ -2,4 +2,4 @@
 
 set -e
 
-curl -so 128.png "{{ cookiecutter.icon }}"
+curl -so 128.png "{{ cookiecutter.png_icon }}"
