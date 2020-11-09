@@ -21,3 +21,8 @@ Finally, open `chrome://extensions` on your browser, activate _Developer mode_ a
 ### Icons
 
 `cookiecutter` will ask you for the URL of a PNG icon with size of 128x128 px. To choose a local file instead use `file://path/to/file.png`.
+
+
+## References
+
+- [Create and publish custom Chrome apps & extensions](https://support.google.com/chrome/a/answer/2714278?hl=en)
